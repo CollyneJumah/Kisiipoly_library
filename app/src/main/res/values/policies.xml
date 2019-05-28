@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="membership">
+        <b>MEMBERSHIP:</b>\n
+        <i>The following persons are eligible for membership</i>
+         \n\n
+        <p>
+       <b>1. Duly registered KNP students.</b>
+            \n
+       <b>2. Current KNP staff</b>
+            \n
+       <b>3. Duly registered members of the public.</b>
+        </p>
+
+    </string>
+
+    <string name="requirement">
+        <b>REQUIREMENTS:</b>\n
+        <i>To access Library one MUST have:</i>
+         \n\n
+        <p>
+            <b>1. College ID.</b>\n\n
+            <b>2. Letter of confirmation from the departments- staff. ( Teachers on teaching practice ).</b>\n\n
+            <b>3. Library card and National ID Members of the Public.</b>\n\n
+        </p>
+    </string>
+
+    <string name="conduct">
+        <b>CONDUCT IN THE LIBRARY:</b>
+         \n\n
+        <p>​1. Silence shall be observed at all times in the library.</p>\n
+        <p>2. All mobile phones shall be switched off upon entry OR to be on silent mode.</p>\n
+        <p>3. There shall be no reservation of library space (seats or table).</p>\n
+        <p>4. Personal effects shall be deposited at the pigions/ clock area   provided and readers to observe security rules.</p>\n
+        <p>5. Only files and note books shall be authorized for use in the library.</p>\n
+        <p>6. Food drinks and liquids are prohibited in the library.</p>\n
+        <p>7. The library shall not be held responsible for any loses misplacement or damage of personal belongings.</p>\n
+        <p>8. Charging of Cell-phones is strictly prohibited in the library.</p>\n
+        <p>9. The librarian reserves the right to withdraw library privileges to any members who disregard these rules.</p>
+        \n\n
+        <b><i>Learn more about Library conducts.</i></b><a href="http://kisiipoly.ac.ke/library/node/25">here</a>
+    </string>
+    <string name="operationHr">
+        <b>Library Operational Hours:</b>
+        \n\n
+        Monday – Thursday – 8.00am-9.00pm
+        \n\n
+        Fridays – 8.00am – 4.00pm
+        \n\n
+        Saturdays – 9.00am – 1.00pm
+        \n\n
+        Normal school holidays – 9.00am – 4.00pm
+        \n\n
+        The library shall remain closed on <b>Sundays and public Holidays.</b>
+    </string>
+<string name="security">
+    <b>Security in the Library:</b>
+    \n\n
+    <ul type="1">
+        \n\n
+        <li> All users will be subjected to routine after service inspection at the entrance.</li>
+        \n\n
+        <li>Borrowers shall be held responsible for materials on loan.</li>
+        \n\n
+        <li>Lost or damaged materials must be reported to the librarian immediately.</li>\n\n
+        <li>The full cost of replacement of lost material and repair of damaged material will be met by the affected member. A further ksh.500 will be charged as administration fee.</li>\n\n
+        <li>Theft of library materials shall be referred to the disciplinary committee in line with the college rules and regulations.</li>\n\n
+<li>The following schedule of penalties shall apply at all times.</li>\n\n
+    </ul>
+
+</string>
+</resources>

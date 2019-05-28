@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/menu_site"
+            android:icon="@drawable/ic_site_black_24dp"
+            android:title="Library Site" />
+
+        <item
+            android:id="@+id/menu_eresource"
+            android:icon="@drawable/ic_resources"
+            android:title="e-Resources" />
+    </group>
+
+    <item android:title="Policies">
+        <menu>
+            <item
+                android:id="@+id/menu_membership"
+                android:icon="@drawable/ic_membership"
+                android:title="Membership" />
+            <item android:id="@+id/menu_requirements"
+                android:icon="@drawable/ic_requirements"
+                android:title="Requirements" />
+
+            <item android:id="@+id/menu_conduct"
+                android:icon="@drawable/ic_conduct"
+                android:title="Conduct in the Library" />
+
+            <item android:title="Schedule of Penalty"
+                android:id="@+id/menu_penalty"
+                android:icon="@drawable/ic_local_penalty"/>
+
+        </menu>
+    </item>
+
+    <item android:title="Library Services">
+        <menu>
+            <item
+                android:id="@+id/menu_operationhr"
+                android:icon="@drawable/ic_operationhr"
+                android:title="Operational Hours" />
+            <item
+                android:id="@+id/menu_borrowing"
+                android:icon="@drawable/ic_borrow"
+                android:title="Borrowing/Lending" />
+            <item
+                android:id="@+id/menu_secu_libraryMaterial"
+                android:icon="@drawable/ic_security"
+                android:title="Security of Library materials" />
+        </menu>
+    </item>
+
+    <item android:title="Online Support">
+        <menu>
+            <item
+                android:id="@+id/menu_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/menu_faq"
+                android:icon="@drawable/ic_help"
+                android:title="FAQ" />
+        </menu>
+    </item>
+
+</menu>
